@@ -1,4 +1,4 @@
-# Auto Render Tool v8
+# Auto Render Pipeline Tool
 
 **Made by Minh Thi**
 
